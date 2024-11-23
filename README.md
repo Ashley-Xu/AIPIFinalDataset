@@ -49,7 +49,7 @@ The analysis included the following steps:
 Overall, the EDA provided valuable insights into the factors that contribute to successful matches on Tinder, including the importance of the opening line, the impact of conversation length, and the differences in conversation patterns between genders.
 
 
-**Link to your publicly available data sourcing code repository**
+**Link to my publicly available data sourcing code repository**
 
 https://www.kaggle.com/datasets/ashleyxu98/tinder
 
