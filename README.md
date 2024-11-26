@@ -1,3 +1,23 @@
+
+### Create a virtual environment
+Windows
+
+```
+python -m venv .venv
+.venv/Scripts/activate
+```
+
+Linux/Mac
+```
+python -m venv .venv
+source .venv/bin/activate
+```
+
+### Install requirements
+```
+python -m pip install -r requirements.txt
+```
+
 **Executive Summary (with motivation and potential applications)**
 
 I am trying to solve the mystery of how people are finding love on online dating apps. 
