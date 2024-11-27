@@ -42,8 +42,6 @@ The dataset contains anonymized data extracted and transformed from Tinder conve
 
 The dataset provides insights into the dynamics of Tinder conversations, including the types of openers used, the length of conversations, and the success rates of different message types. This data can be used to analyze patterns and trends in online dating interactions, helping to identify factors that contribute to successful matches.
 
-
-
 **Power analysis results**
 
 Set significance level to 0.05, power to 80%, and the sample size of the data that I was given permission to make open source is on 1000 users’ profiles. We want to see given our data (sample size), what the effect size (d) is. I calculated the effect size to be 0.0885, which is fairly small effect size given the sample size of 1000, power of 80% and significance level to 0.05. This means that, even if there is a small difference between the two groups of samples, we will be able to detect it.  
@@ -93,4 +91,3 @@ The data was collected from https://www.swipestats.io/ with appropriate permissi
 
 **Open source license**
 Community Data License Agreement – Sharing – Version 1.0
-
