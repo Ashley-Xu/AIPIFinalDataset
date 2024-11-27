@@ -18,6 +18,13 @@ source .venv/bin/activate
 python -m pip install -r requirements.txt
 ```
 
+### Unit Test
+```
+python -m unittest test_cleaning.py
+python -m unittest test_json_to_csv.py
+python -m unittest test_eda_functions.py
+```
+Please note that I am not allowed to share the raw data because it contains confidential information so the unit tests are using a dummy dataset.
 **Executive Summary (with motivation and potential applications)**
 
 I am trying to solve the mystery of how people are finding love on online dating apps. 
